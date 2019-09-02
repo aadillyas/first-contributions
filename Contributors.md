@@ -8,6 +8,7 @@
 - [Krisztian Markella](https://github.com/chrismarkella)
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
+- [Aadil](https://github.com/aadillyas)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
 - [Stacy Meichle](https://github.com/smeichle)
 - [HRK_Codes](https://github.com/HRK31)
